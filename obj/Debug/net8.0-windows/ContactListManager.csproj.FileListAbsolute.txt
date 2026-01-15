@@ -1,0 +1,17 @@
+C:\Users\dumag\OneDrive\Desktop\repos\activity1\bin\Debug\net8.0-windows\ContactListManager.exe
+C:\Users\dumag\OneDrive\Desktop\repos\activity1\bin\Debug\net8.0-windows\ContactListManager.deps.json
+C:\Users\dumag\OneDrive\Desktop\repos\activity1\bin\Debug\net8.0-windows\ContactListManager.runtimeconfig.json
+C:\Users\dumag\OneDrive\Desktop\repos\activity1\bin\Debug\net8.0-windows\ContactListManager.dll
+C:\Users\dumag\OneDrive\Desktop\repos\activity1\bin\Debug\net8.0-windows\ContactListManager.pdb
+C:\Users\dumag\OneDrive\Desktop\repos\activity1\obj\Debug\net8.0-windows\ContactListManager.ContactPopup.resources
+C:\Users\dumag\OneDrive\Desktop\repos\activity1\obj\Debug\net8.0-windows\activity1.MainForm.resources
+C:\Users\dumag\OneDrive\Desktop\repos\activity1\obj\Debug\net8.0-windows\ContactListManager.csproj.GenerateResource.cache
+C:\Users\dumag\OneDrive\Desktop\repos\activity1\obj\Debug\net8.0-windows\ContactListManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dumag\OneDrive\Desktop\repos\activity1\obj\Debug\net8.0-windows\ContactListManager.AssemblyInfoInputs.cache
+C:\Users\dumag\OneDrive\Desktop\repos\activity1\obj\Debug\net8.0-windows\ContactListManager.AssemblyInfo.cs
+C:\Users\dumag\OneDrive\Desktop\repos\activity1\obj\Debug\net8.0-windows\ContactListManager.csproj.CoreCompileInputs.cache
+C:\Users\dumag\OneDrive\Desktop\repos\activity1\obj\Debug\net8.0-windows\ContactListManager.dll
+C:\Users\dumag\OneDrive\Desktop\repos\activity1\obj\Debug\net8.0-windows\refint\ContactListManager.dll
+C:\Users\dumag\OneDrive\Desktop\repos\activity1\obj\Debug\net8.0-windows\ContactListManager.pdb
+C:\Users\dumag\OneDrive\Desktop\repos\activity1\obj\Debug\net8.0-windows\ContactListManager.genruntimeconfig.cache
+C:\Users\dumag\OneDrive\Desktop\repos\activity1\obj\Debug\net8.0-windows\ref\ContactListManager.dll
